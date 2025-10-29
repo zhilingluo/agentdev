@@ -80,12 +80,15 @@ Part 3：企业级开发
 - 样例Agent：米姆咖啡分析师服务
 
 Part 4: 走向未来
-7.	《Agentic Organization——全Agent的组织》
-- AI First的架构设计
-- AI Agent 的管理架构
-- 商业公司的新形态
-- 自进化的智能体：Agent RL
 
+7.	《Agentic Organization——面向Agent的组织》
+
+- Agent的组织结构特点
+- 人类的三种角色：代理老板，评估员，协作者
+- 产品/服务的敏捷迭代
+- 商业公司的新形态：新的人，物，财，资的数据流
+- 自进化的数字劳动力：Agent RL
+- 样例：米姆咖啡的全智能体子公司
 
 ### 讲师介绍：
 <div style="display: flex; align-items: flex-start; gap: 20px;">
