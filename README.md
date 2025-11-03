@@ -37,16 +37,20 @@ Part 1: 入门
 - 概览
 - 10分钟搭建第一个Agent：米姆咖啡的市场分析师
 
+2. 《开发加速——主流框架实战》：Agent的开发框架
+- 主流框架简介
+- AgentScope
+
 Part 2：进阶
 
-2.	《设计思维——Agent的基础模式》 :Agent的设计模式
+3. 《设计思维——Agent的基础模式》 :Agent的设计模式
 - 工具使用模式，
 - Agentic RAG模式，
 - 规划模式，
 - 元认知模式，
 - 样例Agent：米姆咖啡的高级市场分析师
 
-3. 《进阶思维——Agent的高级模式》
+4. 《进阶思维——Agent的高级模式》
 - 多智能体模式，
 - 工作流模式，
 - 代码生成模式，
@@ -57,14 +61,8 @@ Part 2：进阶
 - 样例Agent：米姆咖啡的市场经理
 - 样例Agent：米姆咖啡的采购经理
 
-4. 《开发加速——主流框架实战》：Agent的开发框架
-- AgentScope
-- LangChain
-- AutoGen
-- LangGraph
-- Dify
 
-Part 3：企业级开发
+Part 3：企业级Agent
 
 5. 《能力增强——让Agent更可靠、更强大》：Agent的基础设施
 - Agent记忆
