@@ -6,7 +6,7 @@ The following bash commands are for MacOS, for example ``cp .env.template .env``
 ### Prequisites
 1. Python 3.11+
 2. your modelscope api key (https://www.modelscope.cn/user/settings). 
-
+3. uv #TODO add details
 
 ### Config
 1. copy the '.env.template' to '.env'.
